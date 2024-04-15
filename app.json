@@ -1,5 +1,5 @@
 {
-  "name": "Xlicon-MD",
+  "name": "Xmr Ralph boy",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "SUDO": {
-      "description": "Add Owwner Number Here",
+      "description": " 2347041784362",
       "required": true,
       "value": "923184070915"
     },
     "SUDO_NAME": {
-      "description": "Add Your Name Here",
+      "description": "Ralph boy",
       "required": true,
       "value": "SᴀʟᴍᴀɴSᴇʀ"
     },
@@ -28,24 +28,24 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "Set Your Prefix Here",
+      "description": ".",
       "required": true,
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Set Your Bot Name Here",
-      "required": false,
+      "description": "Ralph_bot",
+      "required": true,
       "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
     },
      "PACK_NAME": {
-      "description": "Enter Pack Name Here",
-      "required": false,
+      "description": "ralph",
+      "required": true,
       "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢY Ralphboy"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
@@ -54,7 +54,7 @@
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
-      "required": false,
+      "required": true,
       "value": "true"
      },
     "MENU_DESIGN": {
